@@ -71,6 +71,10 @@ body {
   margin: 0 0 120px;
 }
 
+.main-content {
+  padding-left: 30px;
+}
+
 .subheading {
   margin: 0 0 56px;
   font-size: 56px;
